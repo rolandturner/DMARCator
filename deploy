@@ -2,5 +2,5 @@
 
 apt-get upgrade -y
 apt-get autoremove -y
-apt-get install -y exim4-daemon-heavy
+apt-get install -y exim4-daemon-light tomcat6
 
